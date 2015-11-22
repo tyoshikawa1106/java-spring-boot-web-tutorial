@@ -1,0 +1,72 @@
+2015-11-23 00:26:56,020 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:App:0.0.1-SNAPSHOT @ /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/pom.xml.
+2015-11-23 00:26:56,997 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2015-11-23 00:26:56,999 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /App/src/main/resources
+2015-11-23 00:26:57,033 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /App/src/main/resources
+2015-11-23 00:26:57,043 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2015-11-23 00:26:57,629 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2015-11-23 00:26:57,634 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-23 00:26:58,179 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:App:0.0.1-SNAPSHOT @ /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/pom.xml.
+2015-11-23 00:26:58,750 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2015-11-23 00:26:58,751 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /App/src/main/resources
+2015-11-23 00:26:58,754 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /App/src/main/resources
+2015-11-23 00:26:58,758 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2015-11-23 00:26:58,834 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-11-23 00:26:59,695 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:26:59,703 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:26:59,711 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 00:26:59,715 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:26:59,715 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/src/test/resources
+2015-11-23 00:27:00,973 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:27:00,974 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 00:27:00,975 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 00:27:00,978 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:27:00,978 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/src/test/resources
+2015-11-23 00:28:11,059 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:App:0.0.1-SNAPSHOT @ /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/pom.xml.
+2015-11-23 00:28:11,662 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2015-11-23 00:28:11,663 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /App/src/main/resources
+2015-11-23 00:28:11,669 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /App/src/main/resources
+2015-11-23 00:28:11,678 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2015-11-23 00:28:12,289 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-11-23 00:28:12,291 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-23 00:28:12,650 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:App:0.0.1-SNAPSHOT @ /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/pom.xml.
+2015-11-23 00:28:12,978 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2015-11-23 00:28:12,979 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /App/src/main/resources
+2015-11-23 00:28:12,982 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /App/src/main/resources
+2015-11-23 00:28:12,990 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2015-11-23 00:28:13,051 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-11-23 00:28:13,625 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:28:13,626 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:28:13,638 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 00:28:13,641 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:28:13,641 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/src/test/resources
+2015-11-23 00:29:05,183 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:29:05,186 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 00:29:05,187 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:29:05,192 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:29:05,192 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/src/test/resources
+2015-11-23 00:29:38,978 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:App:0.0.1-SNAPSHOT @ /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/pom.xml.
+2015-11-23 00:29:39,302 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:29:39,303 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 00:29:39,304 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 00:29:39,305 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:29:39,306 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/src/test/resources
+2015-11-23 00:29:41,399 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:29:41,402 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:29:41,415 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:29:41,420 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:29:41,421 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/src/test/resources
+2015-11-23 00:29:58,624 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:29:58,624 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 00:29:58,625 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:29:58,628 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:29:58,629 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/src/test/resources
+2015-11-23 00:30:31,753 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:30:31,754 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:30:31,755 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:30:31,762 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:30:31,762 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/src/test/resources
+2015-11-23 00:30:44,190 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:30:44,191 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:30:44,192 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 00:30:44,194 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 00:30:44,195 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tyoshikawa1106/pg/java-spring-boot/java-spring-boot-tutorial/App/src/test/resources
